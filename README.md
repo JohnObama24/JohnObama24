@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm John Obama</h1>
 <h3 align="center">I'm a game and Web Dev ("maybe")</h3>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Papalitas09&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/adeleeeeyyyy)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=JohnObama24&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/adeleeeeyyyy)
 <!-- ![readmebox](https://svgshare.com/i/15xW.svg) -->
 
 
