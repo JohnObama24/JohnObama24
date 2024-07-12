@@ -53,17 +53,17 @@ most used social media</p>
 <h2 align="center"> 📈 ~ Github Stats ~ 📈 </h2>
 
 <p align="center">
-  <a href="https://github.com/JohnObama24"><img src="https://github-readme-stats.vercel.app/api?username=Papalitas09&theme=tokyonight&show_icons=true" /></a>
+  <a href="https://github.com/JohnObama24"><img src="https://github-readme-stats.vercel.app/api?username=JohnObama24&theme=tokyonight&show_icons=true" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/JohnObama24"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Papalitas09&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+  <a href="https://github.com/JohnObama24"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnObama24&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide=css&theme=nightowl&hide_border=false&username=Papalitas09" height="150" alt="languages graph"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide=css&theme=nightowl&hide_border=false&username=JohnObama24" height="150" alt="languages graph"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/adeleeeeyyyy"><img src="https://github-profile-trophy.vercel.app/?username=Papalitas09&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+  <a href="https://github.com/adeleeeeyyyy"><img src="https://github-profile-trophy.vercel.app/?username=JohnObama24&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
