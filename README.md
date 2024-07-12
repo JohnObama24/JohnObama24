@@ -46,7 +46,7 @@
 most used social media</p>
 
 <p align="center">
-  <a href="https://www.instagram.com/johnobama_" target="_blank"><img src="https://img.shields.io/badge/-Mr.Papalitas-ocean?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/johnobama_" target="_blank"><img src="https://img.shields.io/badge/-John obama-ocean?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 </div>
 <br>
