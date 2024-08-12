@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm John Obama</h1>
-<h3 align="center">I'm a game and Web Dev ("maybe")</h3>
+<h3 align="center">I'm a Front-end Web Dev ("maybe")</h3>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=JohnObama24&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/johnObama24)
 <!-- ![readmebox](https://svgshare.com/i/15xW.svg) -->
@@ -10,7 +10,7 @@
   <h2 align="center">  ~ ABOUT ME ~  </h2>
 </div>
 
-- 🌱 I’m currently learning **Game Development**
+- 🌱 I’m currently learning **Flutter and Web development**
 <a>
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
   </a>
