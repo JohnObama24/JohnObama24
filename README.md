@@ -43,7 +43,7 @@
 <h2 align="center"> 📝 ~ CONTACT ME ~ 📝 </h2>
 
 <p align="center">Here are some my <br>
-most used social media</p>
+most used social media :v/<p>
 
 <p align="center">
   <a href="https://www.instagram.com/johnobama_" target="_blank"><img src="https://img.shields.io/badge/-John obama-ocean?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
