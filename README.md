@@ -1,69 +1,82 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm John Obama</h1>
-<h3 align="center">I'm a Front-end Web Dev ("maybe")</h3>
+<h2 align="left">Hi 👋! My name is John and iam a front-End developer</h2>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=JohnObama24&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/johnObama24)
-<!-- ![readmebox](https://svgshare.com/i/15xW.svg) -->
+###
 
-
-<div>
-  <h2 align="center">  ~ ABOUT ME ~  </h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JohnObama24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JohnObama24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-- 🌱 I’m currently learning **Flutter development and Web development**
-<a>
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/51msw4.mp4"  />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Hiuaaaa">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Hiuaaaa&count=5&unique=false" alt="Spotify recently played"  />
   </a>
-  
-- 👯 Collaborate with me on **Discord**
-
-- 📫 How to reach me **wkkwk.w.d.wf**
-
-<br>
-
-<h2 align="center"> 💻 Tech Stack:</h2>
-
-
-<a align="center" href="">
-
-<div justify-content="center">
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> 
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src = "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </div>
 
-</a>
+###
 
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/JohnObama24/JohnObama24/output/snake.svg" alt="Snake animation" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<h2 align="center"> 📝 ~ CONTACT ME ~ 📝 </h2>
+###
 
-<p align="center">Here are some my <br>
-most used social media :v/<p>
-
-<p align="center">
-  <a href="https://www.instagram.com/johnobama_" target="_blank"><img src="https://img.shields.io/badge/-John obama-ocean?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JohnObama24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JohnObama24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-<br>
-<h2 align="center"> 📈 ~ Github Stats ~ 📈 </h2>
 
-<p align="center">
-  <a href="https://github.com/JohnObama24"><img src="https://github-readme-stats.vercel.app/api?username=JohnObama24&theme=tokyonight&show_icons=true" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/JohnObama24"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnObama24&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
-</p>
-
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide=css&theme=nightowl&hide_border=false&username=JohnObama24" height="150" alt="languages graph"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/adeleeeeyyyy"><img src="https://github-profile-trophy.vercel.app/?username=JohnObama24&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
-</p>
+###
