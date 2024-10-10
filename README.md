@@ -56,14 +56,15 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/51msw4.mp4"  />
+<img align="right" height="150" src="https://i.imgflip.com/51msw4.gif"  />
 
 ###
 
 <div align="center">
   <a href="https://open.spotify.com/user/Hiuaaaa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Hiuaaaa&count=5&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=Hiuaaaa&cover_image=true&theme=default" alt="Spotify recently played" />
   </a>
 </div>
+
 
 ###
