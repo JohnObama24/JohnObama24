@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is John Obama and I am a front-End developer (maybe)</h2>
+<h2 align="center">Hi 👋! My name is John Obama MS and I am a front-End developer (maybe)</h2>
 
 ###
 
