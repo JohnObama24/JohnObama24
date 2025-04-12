@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is John Obama and I am a front-End developer (full-stack on progress)</h2>
+<h2 align="center">Hi 👋! My name is John Obama and I am a front-End developer And indie Game dev🦅</h2>
 
 ###
 
