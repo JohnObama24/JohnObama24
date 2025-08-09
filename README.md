@@ -22,5 +22,5 @@ Hi, I'm John Obama! I'm a junior developer exploring the worlds of web, game, an
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=JohnObama24&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
 
-<img align="right" height="500" src="https://media.tenor.com/VunSi3YdxKwAAAAj/mad.gif"  />
+<img align="right" height="200" src="https://media.tenor.com/vcboYdN8wxwAAAAi/cat-jumping.gif"  />
 
