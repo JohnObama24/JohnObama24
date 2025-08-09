@@ -13,9 +13,8 @@ Junior developer exploring the worlds of web, game, and mobile development
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnObama24&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-<div >
 ![](https://github-profile-trophy.vercel.app/?username=JohnObama24&theme=catppuccin_mocha&no-frame=false&no-bg=true&margin-w=4)
-</div>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
