@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior developer exploring the worlds of web, game, and mobile development
+Hi, I'm John Obama! I'm a junior developer exploring the worlds of web, game, and mobile development
 
 
 ## 🌐 Socials:
@@ -21,5 +21,7 @@ Junior developer exploring the worlds of web, game, and mobile development
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=JohnObama24&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
+
+<img align="right" height="150" src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRmb3p2ZzhhZnozM2puNTZoMXVqeHhmcXdpZ2gwbGx5NmtsZnc5cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2zUn8hAwJwG4abiS0p/giphy.gif" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
