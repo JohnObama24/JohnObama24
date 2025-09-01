@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm John Obama! I'm a junior developer exploring the worlds of web, game, and mobile development
+Hi, I'm John Obama! I'm a junior developer exploring the worlds of web, game, and mobile development.
 
 
 ## 🌐 Socials:
